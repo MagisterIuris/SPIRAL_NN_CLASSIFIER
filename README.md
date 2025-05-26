@@ -65,3 +65,5 @@ This will generate a heatmap showing how the model separates the spirals.
 - PyTorch
 - Matplotlib
 - Python 3.10+
+
+The trained model (`.pth` file) is included and was trained entirely from scratch on synthetic data.
